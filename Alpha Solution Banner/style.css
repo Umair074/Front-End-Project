@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Aplha_solution{
+    margin: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.Provied{
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+.doit{
+    margin-top: -40px;
+    text-align: center;
+    font-size: 100px;
+    font-weight:bold;
+}
+.Service{
+    padding-top: 20px; 
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: auto;
+}
+.web_development{
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+.Digital_market{
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+.Graphic_Designing{ 
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+.Wordpress{
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
