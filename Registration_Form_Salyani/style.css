@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Header_system{
+    /* border: 1px solid red; */
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+.Header_system .logo{
+    margin-left: 80px;
+}
+h1{
+    margin-left: -40px;
+}
+.Main_div{
+    background-color: cornflowerblue;
+    padding: 10px 10px 10px 20px;
+
+}
+.Main_div div{
+    margin: 15px;
+}
+.Main_div div label{
+    padding: 50px;
+}
+#First_Name{
+    margin-left: 50px;
+}
